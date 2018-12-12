@@ -15,6 +15,14 @@
     "type": "git",
     "url": "https://github.com/benamto/sails-hook-pagify"
   },
+  "keywords": [
+    "sailsjs",
+    "pagination",
+    "pagify",
+    "paginate",
+    "sails",
+    "express"
+  ],
   "devDependencies": {
     "chai": "^3.4.1",
     "faker": "^3.0.1",
