@@ -1,6 +1,6 @@
 {
   "name": "@benamto/sails-hook-pagify",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A fork of sails-hook-pagify with ongoing maintenance.",
   "main": "index.js",
   "scripts": {
